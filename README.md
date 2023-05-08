@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdallah2358
-- 👀 I’m interested in automation and problem solving 
-- 🌱 I’m currently learning frontend then back end then clouding then i will swtich to data scince then i will land in security land 
-- 💞️ I’m looking to collaborate on any software development project that can 
+- 👋 Hi, I’m Abdallah El Hadidi
+- 🌱 I’m a Software Engineer foucased on Web Development Using Asp.net and Laravel 
+- 👀 I’m also interested in automation and problem solving 
+- 💞️ I’m looking forward to collaborating on software development project that can 
 - 📫 How to reach me
 @HadidiAbdallah <twtiter>
 
